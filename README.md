@@ -3,6 +3,7 @@ I am a 3rd year PhD student in Industrial Engineering at Texas A&M University. I
 
 ![](Photo.jpg)
 
+<img src="Photo.jpg" alt="drawing" width="200"/>
 
 # Articles
 ## Published Articles
