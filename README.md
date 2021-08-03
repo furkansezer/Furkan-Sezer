@@ -1,7 +1,7 @@
 
 I am a 3rd year PhD student in Industrial Engineering at Texas A&M University. I conduct research in information design. Please see my list of publications below.
 
-![alt text](https://github.com/[furkansezer]/[Furkan-Sezer]/[main]/Photo.jpg?raw=true)
+![](Photo.jpg)
 
 
 # Articles
