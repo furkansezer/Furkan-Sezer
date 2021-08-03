@@ -10,7 +10,7 @@ A. Garcia, R. Khatami, C. Eksin and F. Sezer, "An Incentive Compatible Iterative
 ## Pre-prints
 F. Sezer, Hossein Khazaei, Ceyhun Eksin. Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games, arxiv: 2102.13047 [math.OC], 2021.(Submitted)
 ## Working papers
--bullets
+
 • F. Sezer, Ceyhun Eksin, Robust Information Design in Linear-Quadratic-Gaussian Games, 2021 
 • F. Sezer, Ceyhun Eksin, Bilevel Multiagent Information Design in Linear-Quadratic-Gaussian Games, 2021
 
