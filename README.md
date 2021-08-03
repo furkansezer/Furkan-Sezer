@@ -3,7 +3,7 @@ I am a 3rd year PhD student in Industrial Engineering at Texas A&M University. I
 
 <img src="Photo.jpg" alt="drawing" width="300"/>
 
-# Articles
+# Publications
 ## Published Articles
 A. Garcia, R. Khatami, C. Eksin and **F. Sezer**, "An Incentive Compatible Iterative Mechanism for Coupling Electricity Markets," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2021.3100782.
 ## Pre-prints
