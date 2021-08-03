@@ -4,12 +4,12 @@ I am a 3rd year PhD student in Industrial Engineering at Texas A&M University. I
 
 
 
-### Articles
-# Published Articles
+# Articles
+## Published Articles
 A. Garcia, R. Khatami, C. Eksin and F. Sezer, "An Incentive Compatible Iterative Mechanism for Coupling Electricity Markets," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2021.3100782.
-# Pre-prints
+## Pre-prints
 F. Sezer, Hossein Khazaei, Ceyhun Eksin. Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games, arxiv: 2102.13047 [math.OC], 2021.(Submitted)
-#Working papers
+## Working papers
 • F. Sezer, Ceyhun Eksin, Robust Information Design in Linear-Quadratic-Gaussian Games, 2021
 • F. Sezer, Ceyhun Eksin, Bilevel Multiagent Information Design in Linear-Quadratic-Gaussian Games, 2021
 
