@@ -1,22 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to Furkan Sezer's personal website
 
-You can use the [editor on GitHub](https://github.com/furkansezer/Furkan-Sezer/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a 3rd year PhD student in Industrial Engineering at Texas A&M University. I conduct research in information design. Please see my list of publications below.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Articles
+
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+# Published Articles
+A. Garcia, R. Khatami, C. Eksin and F. Sezer, "An Incentive Compatible Iterative Mechanism for Coupling Electricity Markets," in IEEE Transactions on Power Systems, doi: 10.1109/TPWRS.2021.3100782.
+# Pre-prints
+F. Sezer, Hossein Khazaei, Ceyhun Eksin. Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games, arxiv: 2102.13047 [math.OC], 2021.(Submitted)
+#Working papers
+• F. Sezer, Ceyhun Eksin, Robust Information Design in Linear-Quadratic-Gaussian Games, 2021
+• F. Sezer, Ceyhun Eksin, Bilevel Multiagent Information Design in Linear-Quadratic-Gaussian Games, 2021
 
 1. Numbered
 2. List
