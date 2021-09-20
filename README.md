@@ -1,5 +1,5 @@
 
-I am a 3rd year PhD student in Industrial Engineering at Texas A&M University. I conduct research in information design. Please see my list of publications below.
+I am a 3rd year PhD student in Industrial Engineering at Texas A&M University. I conduct research in information design. Please see the list of my publications below.
 
 <img src="Photo.jpg" alt="drawing" width="300"/>
 
