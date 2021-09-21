@@ -1,5 +1,5 @@
 
-I am a 3rd year PhD student in Industrial Engineering at Texas A&M University. I conduct research in information design. Please see the list of my publications below.
+I am a 3rd year PhD student in Industrial Engineering at Texas A&M University. My PhD research is on information design in games with applications to multiagent systems, e.g., smart grids. Please see the list of my publications below.
 
 <img src="Photo.jpg" alt="drawing" width="300"/>
 
@@ -12,6 +12,10 @@ A. Garcia, R. Khatami, C. Eksin and **F. Sezer**, "An Incentive Compatible Itera
 
 • **F. Sezer**, Ceyhun Eksin, Robust Information Design in Linear-Quadratic-Gaussian Games, 2021 <br />
 • **F. Sezer**, Ceyhun Eksin, Bilevel Multiagent Information Design in Linear-Quadratic-Gaussian Games, 2021
+
+
+
+Contact: furkan.sezer@tamu.edu
 
 
 
