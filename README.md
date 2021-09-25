@@ -1,7 +1,7 @@
 
 I am a 3rd year PhD student in Industrial Engineering at Texas A&M University. My PhD research is on information design in games with applications to multiagent systems, e.g., smart grids. Please see the list of my publications below.
 
-<img src="Photo.jpg" alt="drawing" width="300"/>
+<img src="1629480007010.jpg" alt="drawing" width="300"/>
 
 # Publications
 ## Published Papers
