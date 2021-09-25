@@ -16,9 +16,9 @@ A. Garcia, R. Khatami, C. Eksin and **F. Sezer**, An Incentive Compatible Iterat
 
 
 E-mail: furkan.sezer@tamu.edu <br />
-Linkedin: https://www.linkedin.com/in/furkansezer/ <br />
-Google Scholar: https://scholar.google.com/citations?user=7UVlnAQAAAAJ&hl=en <br />
-Github profile: https://github.com/furkansezer <br />
+[Linkedin profile](https://www.linkedin.com/in/furkansezer/) <br />
+[Google Scholar profile](https://scholar.google.com/citations?user=7UVlnAQAAAAJ&hl=en) <br />
+[Github profile](https://github.com/furkansezer) <br />
 
 
 
