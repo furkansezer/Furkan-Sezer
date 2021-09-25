@@ -5,8 +5,8 @@ I am a 3rd year PhD student in Industrial Engineering at Texas A&M University. M
 
 # Publications
 ## Published Papers
-A. Garcia, R. Khatami, C. Eksin and **F. Sezer**, An Incentive Compatible Iterative Mechanism for Coupling Electricity Markets, IEEE Transactions on Power Systems, 2021, doi: 10.1109/TPWRS.2021.3100782. [pdf]:https://ieeexplore.ieee.org/document/9501497
-## Pre-prints
+A. Garcia, R. Khatami, C. Eksin and **F. Sezer**, An Incentive Compatible Iterative Mechanism for Coupling Electricity Markets, IEEE Transactions on Power Systems, 2021, doi: 10.1109/TPWRS.2021.3100782. [pdf](https://ieeexplore.ieee.org/document/9501497)
+## Pre-prints 
 **F. Sezer**, Hossein Khazaei, Ceyhun Eksin. Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games, arxiv: 2102.13047 [math.OC], 2021.
 ## Working papers
 
