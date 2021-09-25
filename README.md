@@ -15,10 +15,10 @@ A. Garcia, R. Khatami, C. Eksin and **F. Sezer**, An Incentive Compatible Iterat
 • S. Aydin, **F. Sezer**, Jiachen Xi, Prachi Dutta, Decentralized Policy Gradient Algorithm for Markov Potential Games with Networked Agents, 2022 <br />
 
 
-E-mail: furkan.sezer@tamu.edu
-Linkedin: https://www.linkedin.com/in/furkansezer/
-Google Scholar:https://scholar.google.com/citations?user=7UVlnAQAAAAJ&hl=en
-Github profile: https://github.com/furkansezer
+E-mail: furkan.sezer@tamu.edu <br />
+Linkedin: https://www.linkedin.com/in/furkansezer/ <br />
+Google Scholar:https://scholar.google.com/citations?user=7UVlnAQAAAAJ&hl=en <br />
+Github profile: https://github.com/furkansezer <br />
 
 
 
