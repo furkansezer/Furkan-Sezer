@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: [Furkan Sezer]
+github:
+  is_project_page: false
