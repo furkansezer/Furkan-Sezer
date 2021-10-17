@@ -13,7 +13,7 @@ A. Garcia, R. Khatami, C. Eksin and **F. Sezer**, An Incentive Compatible Iterat
 • **F. Sezer**, Ceyhun Eksin, Bilevel Multiagent Information Design in Linear-Quadratic-Gaussian Games, 2022 <br />
 • S. Aydin, **F. Sezer**, J. Xi, P. Dutta, Decentralized Policy Gradient Algorithm for Markov Potential Games with Networked Agents, 2022 <br />
 
-#Contact
+# Contact
 E-mail: furkan.sezer@tamu.edu <br />
 [Linkedin profile](https://www.linkedin.com/in/furkansezer/) <br />
 [Google Scholar profile](https://scholar.google.com/citations?user=7UVlnAQAAAAJ&hl=en) <br />
