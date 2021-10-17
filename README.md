@@ -1,6 +1,5 @@
 
-I am a 3rd year PhD student in Industrial Engineering at Texas A&M University. My PhD research is on information design in games with applications to multiagent systems, e.g., smart grids. Please see the list of my publications below.
-
+I am a 3rd year PhD student in [Industrial Engineering at Texas A&M University]()https://engineering.tamu.edu/industrial/index.html. My PhD advisor is [Dr. Ceyhun Eksin](https://netmas.engr.tamu.edu/). My PhD research is on information design in games with applications to multiagent systems, e.g., smart grids. 
 <img src="1629480007010.jpg" alt="drawing" width="300"/>
 
 # Publications
@@ -14,7 +13,7 @@ A. Garcia, R. Khatami, C. Eksin and **F. Sezer**, An Incentive Compatible Iterat
 • **F. Sezer**, Ceyhun Eksin, Bilevel Multiagent Information Design in Linear-Quadratic-Gaussian Games, 2022 <br />
 • S. Aydin, **F. Sezer**, J. Xi, P. Dutta, Decentralized Policy Gradient Algorithm for Markov Potential Games with Networked Agents, 2022 <br />
 
-
+#Contact
 E-mail: furkan.sezer@tamu.edu <br />
 [Linkedin profile](https://www.linkedin.com/in/furkansezer/) <br />
 [Google Scholar profile](https://scholar.google.com/citations?user=7UVlnAQAAAAJ&hl=en) <br />
