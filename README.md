@@ -1,6 +1,6 @@
 
-I am a 3rd year PhD student in [Industrial Engineering at Texas A&M University](https://engineering.tamu.edu/industrial/index.html). My PhD advisor is [Dr. Ceyhun Eksin](https://netmas.engr.tamu.edu/). My PhD research is on information design in games with applications to multiagent systems, e.g., smart grids. 
-
+I am a 3rd year PhD student in [Industrial Engineering at Texas A&M University](https://engineering.tamu.edu/industrial/index.html). My PhD advisor is [Dr. Ceyhun Eksin](https://netmas.engr.tamu.edu/). My PhD research is on information design in games with applications to multiagent systems, e.g., smart grids. I obtained a Bachelor of Science degree from [Boğaziçi University Department of Industrial Engineering](https://ie.boun.edu.tr/) in 2019.
+ 
 <img src="1629480007010.jpg" alt="drawing" width="300"/>
 
 # Publications
