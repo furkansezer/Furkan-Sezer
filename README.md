@@ -14,7 +14,7 @@ A. Garcia, R. Khatami, C. Eksin and **F. Sezer**, An Incentive Compatible Iterat
 • **F. Sezer**, Ceyhun Eksin, Bilevel Multiagent Information Design in Linear-Quadratic-Gaussian Games, 2022 <br />
 • S. Aydin, **F. Sezer**, J. Xi, P. Dutta, Decentralized Policy Gradient Algorithm for Markov Potential Games with Networked Agents, 2022 <br />
 
-#Presentations
+# Presentations
 INFORMS 2021 Annual Meeting, "Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games" Oct 26, 2021
 
 # Contact
