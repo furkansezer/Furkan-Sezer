@@ -15,7 +15,7 @@ We considered linear-quadratic Gaussian (LQG) games in which players have quadra
 ## Robust Optimization Approach to Information Design
 In this thrust of research, we aim at developing robust information design against uncertainty in system data. In robust optimization framework, we have perturbed problem data, but we do not know exactly what is real system data. We also have a uncertainty set which gives us an idea regarding how much the real data is perturbed. If we solve the perturbed problem directly without considering the perturbation, the signals we designed will not perform as good as if we do it under robust optimization framework. In turn, we would have a suboptimal system objective value. 
 
-**F. Sezer**, Ceyhun Eksin, Robust Information Design in Linear-Quadratic-Gaussian Games, 2021 <br />
+%**F. Sezer**, Ceyhun Eksin, Robust Information Design in Linear-Quadratic-Gaussian Games, 2021 <br />
 
 ## Bilevel Multi-Receiver Information Design
 We analyze welfare maximization under a bilevel hierarchical structure. Leader designs information for the game played by managers. In turn, managers design information for the game played by employees. Payoff state of a manager is defined as weighted sum of payoff state coming from environment and social welfare of employees which he/she is responsible.  This model offers a novel way to look at hierarchical systems such as supply chains and armed forces.
