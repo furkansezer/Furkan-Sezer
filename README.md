@@ -10,7 +10,7 @@ We considered linear-quadratic Gaussian (LQG) games in which players have quadra
 
 **F. Sezer**, Hossein Khazaei, Ceyhun Eksin. Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games, arxiv: 2102.13047 [math.OC], 2021. [pdf](https://arxiv.org/pdf/2102.13047.pdf)
 
-<img src="inf_design.png" alt="drawing" width="300"/>
+<img src="inf_design.jpg" alt="drawing" width="300"/>
 
 ## Robust Optimization Approach to Information Design
 In this thrust of research, we aim at developing robust information design against uncertainty in system data. In robust optimization framework, we have perturbed problem data, but we do not know exactly what is real system data. We also have a uncertainty set which gives us an idea regarding how much the real data is perturbed. If we solve the perturbed problem directly without considering the perturbation, the signals we designed will not perform as good as if we do it under robust optimization framework. In turn, we would have a suboptimal system objective value. 
@@ -22,10 +22,16 @@ We analyze welfare maximization under a bilevel hierarchical structure. Leader d
 
 **F. Sezer**, Ceyhun Eksin, Bilevel Multiagent Information Design in Linear-Quadratic-Gaussian Games, 2022 <br />
 
+<img src="bilevel.jpg" alt="drawing" width="300"/>
+
+
 ## Information Design in Platform Competition under Ramsey Pricing
 Platform competition refers to the competition among entities who serve as intermediaries between two or more user groups like merchants and buyers. We consider maximizing welfare of buyers and sellers and budget balance for monopoly platform. We derive optimal analytical results based on convexity of welfare functions. Numerical experiments identify the transition dynamics between different information disclosure policies.
 
 **F. Sezer**, Justin Grana, Information Design in Platform Competition under Ramsey Pricing, 2022 <br />
+
+<img src="platform.jpg" alt="drawing" width="300"/>
+
 
 ## Incentive Compatible Mechanisms for power market coupling
 The coordinated operation of interconnected but locally controlled electricity markets is generally referred to as a coupling. In this paper we propose a new decentralized market mechanism for efficient coupling of independent electricity markets. We show the mechanisms outcome converges to the optimal flows between markets given the reported supply and demand functions from each individual market clearing. In light of incentive compatibility issues that result from pricing power flows across interconnection lines with locational marginal prices, the mechanism features incentive transfers that compensate each given market with its marginal contribution. We show that these transfers imply truthful participation in the mechanism is a Nash equilibrium. The proposed decentralized mechanism is implemented on the three-area IEEE Reliability Test System where the simulation results showcase the performance guarantees of the proposed mechanism.
