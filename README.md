@@ -36,6 +36,8 @@ The coordinated operation of interconnected but locally controlled electricity m
 
 A. Garcia, R. Khatami, C. Eksin and **F. Sezer**, An Incentive Compatible Iterative Mechanism for Coupling Electricity Markets, IEEE Transactions on Power Systems, 2021, doi: 10.1109/TPWRS.2021.3100782.  [article](https://ieeexplore.ieee.org/document/9501497)
 
+<img src="lmp.jpg" alt="drawing" width="1000"/>
+
 
 ## Policy Gradient Algorithms for Non-cooperative Multi-agent Reinforcement Learning 
 We consider networked multi-agent reinforcement learning problem, in whichagents share their policies via communication network. Agents employ actor-critictype of an algorithm under the multi-agent setting of a Markov game. We show theconvergence of the algorithm to Nash equilibrium in Markov potential games.In numerical experiments, we simulated a networked Cournot game, an example ofpotential games. Numerical results verify the convergence to Nash equilibrium
