@@ -42,6 +42,8 @@ A. Garcia, R. Khatami, C. Eksin and **F. Sezer**, An Incentive Compatible Iterat
 ## Policy Gradient Algorithms for Non-cooperative Multi-agent Reinforcement Learning 
 We consider networked multi-agent reinforcement learning problem, in whichagents share their policies via communication network. Agents employ actor-critictype of an algorithm under the multi-agent setting of a Markov game. We show theconvergence of the algorithm to Nash equilibrium in Markov potential games.In numerical experiments, we simulated a networked Cournot game, an example ofpotential games. Numerical results verify the convergence to Nash equilibrium
 
+<img src="markov.JPG" alt="drawing" width="600"/>
+
 
 # Presentations
 • INFORMS 2021 Annual Meeting, "Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games", Anaheim, CA, Oct 26, 2021
