@@ -10,6 +10,8 @@ We considered linear-quadratic Gaussian (LQG) games in which players have quadra
 
 **F. Sezer**, Hossein Khazaei, Ceyhun Eksin. Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games, arxiv: 2102.13047 [math.OC], 2021. [pdf](https://arxiv.org/pdf/2102.13047.pdf)
 
+<img src="inf_design.png" alt="drawing" width="300"/>
+
 ## Robust Optimization Approach to Information Design
 In this thrust of research, we aim at developing robust information design against uncertainty in system data. In robust optimization framework, we have perturbed problem data, but we do not know exactly what is real system data. We also have a uncertainty set which gives us an idea regarding how much the real data is perturbed. If we solve the perturbed problem directly without considering the perturbation, the signals we designed will not perform as good as if we do it under robust optimization framework. In turn, we would have a suboptimal system objective value. 
 
