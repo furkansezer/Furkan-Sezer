@@ -28,7 +28,7 @@ We analyze welfare maximization under a bilevel hierarchical structure. Leader d
 Platform competition refers to the competition among entities who serve as intermediaries between two or more user groups like merchants and buyers. We consider maximizing welfare of buyers and sellers and budget balance for monopoly platform. We derive optimal analytical results based on convexity of welfare functions. Numerical experiments identify the transition dynamics between different information disclosure policies.
 
 
-<img src="platform.JPG" alt="drawing" width="800"/>
+<img src="platform.JPG" alt="drawing" width="600"/>
 
 
 ## Efficient, Incentive Compatible Mechanisms for Coupling Electricity Markets
@@ -42,7 +42,7 @@ A. Garcia, R. Khatami, C. Eksin and **F. Sezer**, An Incentive Compatible Iterat
 ## Policy Gradient Algorithms for Non-cooperative Multi-agent Reinforcement Learning 
 We consider networked multi-agent reinforcement learning problem, in whichagents share their policies via communication network. Agents employ actor-critictype of an algorithm under the multi-agent setting of a Markov game. We show theconvergence of the algorithm to Nash equilibrium in Markov potential games.In numerical experiments, we simulated a networked Cournot game, an example ofpotential games. Numerical results verify the convergence to Nash equilibrium
 
-<img src="markov.JPG" alt="drawing" width="600"/>
+<img src="markov.JPG" alt="drawing" width="800"/>
 
 
 # Presentations
