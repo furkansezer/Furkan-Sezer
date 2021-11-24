@@ -15,12 +15,11 @@ We considered linear-quadratic Gaussian (LQG) games in which players have quadra
 ## Robust Optimization Approach to Information Design
 In this thrust of research, we aim at developing robust information design against uncertainty in system data. In robust optimization framework, we have perturbed problem data, but we do not know exactly what is real system data. We also have a uncertainty set which gives us an idea regarding how much the real data is perturbed. If we solve the perturbed problem directly without considering the perturbation, the signals we designed will not perform as good as if we do it under robust optimization framework. In turn, we would have a suboptimal system objective value. 
 
-%**F. Sezer**, Ceyhun Eksin, Robust Information Design in Linear-Quadratic-Gaussian Games, 2021 <br />
+
 
 ## Bilevel Multi-Receiver Information Design
 We analyze welfare maximization under a bilevel hierarchical structure. Leader designs information for the game played by managers. In turn, managers design information for the game played by employees. Payoff state of a manager is defined as weighted sum of payoff state coming from environment and social welfare of employees which he/she is responsible.  This model offers a novel way to look at hierarchical systems such as supply chains and armed forces.
 
-**F. Sezer**, Ceyhun Eksin, Bilevel Multiagent Information Design in Linear-Quadratic-Gaussian Games, 2022 <br />
 
 <img src="bilevel.JPG" alt="drawing" width="1000"/>
 
@@ -28,7 +27,6 @@ We analyze welfare maximization under a bilevel hierarchical structure. Leader d
 ## Information Design in Platform Competition under Ramsey Pricing
 Platform competition refers to the competition among entities who serve as intermediaries between two or more user groups like merchants and buyers. We consider maximizing welfare of buyers and sellers and budget balance for monopoly platform. We derive optimal analytical results based on convexity of welfare functions. Numerical experiments identify the transition dynamics between different information disclosure policies.
 
-**F. Sezer**, Justin Grana, Information Design in Platform Competition under Ramsey Pricing, 2022 <br />
 
 <img src="platform.JPG" alt="drawing" width="800"/>
 
@@ -42,7 +40,6 @@ A. Garcia, R. Khatami, C. Eksin and **F. Sezer**, An Incentive Compatible Iterat
 ## Policy Gradient Algorithms for Non-cooperative Multi-agent Reinforcement Learning 
 We consider networked multi-agent reinforcement learning problem, in whichagents share their policies via communication network. Agents employ actor-critictype of an algorithm under the multi-agent setting of a Markov game. We show theconvergence of the algorithm to Nash equilibrium in Markov potential games.In numerical experiments, we simulated a networked Cournot game, an example ofpotential games. Numerical results verify the convergence to Nash equilibrium
 
-S. Aydin, **F. Sezer**, J. Xi, P. Dutta, Decentralized Policy Gradient Algorithm for Markov Potential Games with Networked Agents, 2022 <br />
 
 # Presentations
 • INFORMS 2021 Annual Meeting, "Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games", Anaheim, CA, Oct 26, 2021
