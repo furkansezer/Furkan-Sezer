@@ -15,6 +15,8 @@ We considered linear-quadratic Gaussian (LQG) games in which players have quadra
 ## Robust Optimization Approach to Information Design
 In this thrust of research, we aim at developing robust information design against uncertainty in system data. In robust optimization framework, we have perturbed problem data, but we do not know exactly what is real system data. We also have a uncertainty set which gives us an idea regarding how much the real data is perturbed. If we solve the perturbed problem directly without considering the perturbation, the signals we designed will not perform as good as if we do it under robust optimization framework. In turn, we would have a suboptimal system objective value. 
 
+<img src="diagonal.jpg" alt="drawing" width="1000"/>
+
 
 
 ## Bilevel Multi-Receiver Information Design
@@ -30,6 +32,11 @@ Platform competition refers to the competition among entities who serve as inter
 
 <img src="platform.JPG" alt="drawing" width="600"/>
 
+## Policy Gradient Algorithms for Non-cooperative Multi-agent Reinforcement Learning 
+We consider networked multi-agent reinforcement learning problem, in whichagents share their policies via communication network. Agents employ actor-critictype of an algorithm under the multi-agent setting of a Markov game. We show theconvergence of the algorithm to Nash equilibrium in Markov potential games.In numerical experiments, we simulated a networked Cournot game, an example ofpotential games. Numerical results verify the convergence to Nash equilibrium
+
+<img src="markov.JPG" alt="drawing" width="800"/>
+
 
 ## Efficient, Incentive Compatible Mechanisms for Coupling Electricity Markets
 The coordinated operation of interconnected but locally controlled electricity markets is generally referred to as a coupling. In this paper we propose a new decentralized market mechanism for efficient coupling of independent electricity markets. We show the mechanisms outcome converges to the optimal flows between markets given the reported supply and demand functions from each individual market clearing. In light of incentive compatibility issues that result from pricing power flows across interconnection lines with locational marginal prices, the mechanism features incentive transfers that compensate each given market with its marginal contribution. We show that these transfers imply truthful participation in the mechanism is a Nash equilibrium. The proposed decentralized mechanism is implemented on the three-area IEEE Reliability Test System where the simulation results showcase the performance guarantees of the proposed mechanism.
@@ -39,10 +46,7 @@ A. Garcia, R. Khatami, C. Eksin and **F. Sezer**, An Incentive Compatible Iterat
 <img src="lmp.jpg" alt="drawing" width="600"/>
 
 
-## Policy Gradient Algorithms for Non-cooperative Multi-agent Reinforcement Learning 
-We consider networked multi-agent reinforcement learning problem, in whichagents share their policies via communication network. Agents employ actor-critictype of an algorithm under the multi-agent setting of a Markov game. We show theconvergence of the algorithm to Nash equilibrium in Markov potential games.In numerical experiments, we simulated a networked Cournot game, an example ofpotential games. Numerical results verify the convergence to Nash equilibrium
 
-<img src="markov.JPG" alt="drawing" width="800"/>
 
 
 # Presentations
