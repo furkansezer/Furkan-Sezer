@@ -31,7 +31,7 @@ Platform competition refers to the competition among entities who serve as inter
 <img src="platform.JPG" alt="drawing" width="800"/>
 
 
-## Incentive Compatible Mechanisms for power market coupling
+## Efficient, Incentive Compatible Mechanisms for Coupling Electricity Markets
 The coordinated operation of interconnected but locally controlled electricity markets is generally referred to as a coupling. In this paper we propose a new decentralized market mechanism for efficient coupling of independent electricity markets. We show the mechanisms outcome converges to the optimal flows between markets given the reported supply and demand functions from each individual market clearing. In light of incentive compatibility issues that result from pricing power flows across interconnection lines with locational marginal prices, the mechanism features incentive transfers that compensate each given market with its marginal contribution. We show that these transfers imply truthful participation in the mechanism is a Nash equilibrium. The proposed decentralized mechanism is implemented on the three-area IEEE Reliability Test System where the simulation results showcase the performance guarantees of the proposed mechanism.
 
 A. Garcia, R. Khatami, C. Eksin and **F. Sezer**, An Incentive Compatible Iterative Mechanism for Coupling Electricity Markets, IEEE Transactions on Power Systems, 2021, doi: 10.1109/TPWRS.2021.3100782.  [article](https://ieeexplore.ieee.org/document/9501497)
