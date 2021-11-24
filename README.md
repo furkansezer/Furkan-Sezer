@@ -36,7 +36,7 @@ The coordinated operation of interconnected but locally controlled electricity m
 
 A. Garcia, R. Khatami, C. Eksin and **F. Sezer**, An Incentive Compatible Iterative Mechanism for Coupling Electricity Markets, IEEE Transactions on Power Systems, 2021, doi: 10.1109/TPWRS.2021.3100782.  [article](https://ieeexplore.ieee.org/document/9501497)
 
-<img src="lmp.jpg" alt="drawing" width="1000"/>
+<img src="lmp.jpg" alt="drawing" width="800"/>
 
 
 ## Policy Gradient Algorithms for Non-cooperative Multi-agent Reinforcement Learning 
