@@ -1,7 +1,7 @@
 
 I am a 3rd year PhD student in [Industrial Engineering at Texas A&M University, USA](https://engineering.tamu.edu/industrial/index.html). My PhD advisor is [Dr. Ceyhun Eksin](https://netmas.engr.tamu.edu/). My PhD research is on information design in games with applications to multiagent systems, e.g., smart grids and two-sided markets. I obtained my BSc. degree from [Boğaziçi University Department of Industrial Engineering, Turkey](https://ie.boun.edu.tr/) in 2019. I was an exchange student at [McGill University, Canada](https://www.mcgill.ca/) in Fall 2017.
  
-<img src="1629480007010.jpg" alt="drawing" width="300"/>
+<img src="1629480007010.jpg" alt="drawing" width="1000"/>
 
 # Research
 
@@ -10,7 +10,7 @@ We considered linear-quadratic Gaussian (LQG) games in which players have quadra
 
 **F. Sezer**, Hossein Khazaei, Ceyhun Eksin. Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games, arxiv: 2102.13047 [math.OC], 2021. [pdf](https://arxiv.org/pdf/2102.13047.pdf)
 
-<img src="inf_design.jpg" alt="drawing" width="300"/>
+<img src="inf_design.jpg" alt="drawing" width="1000"/>
 
 ## Robust Optimization Approach to Information Design
 In this thrust of research, we aim at developing robust information design against uncertainty in system data. In robust optimization framework, we have perturbed problem data, but we do not know exactly what is real system data. We also have a uncertainty set which gives us an idea regarding how much the real data is perturbed. If we solve the perturbed problem directly without considering the perturbation, the signals we designed will not perform as good as if we do it under robust optimization framework. In turn, we would have a suboptimal system objective value. 
@@ -22,7 +22,7 @@ We analyze welfare maximization under a bilevel hierarchical structure. Leader d
 
 **F. Sezer**, Ceyhun Eksin, Bilevel Multiagent Information Design in Linear-Quadratic-Gaussian Games, 2022 <br />
 
-<img src="bilevel.JPG" alt="drawing" width="300"/>
+<img src="bilevel.JPG" alt="drawing" width="1000"/>
 
 
 ## Information Design in Platform Competition under Ramsey Pricing
