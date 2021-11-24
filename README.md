@@ -30,7 +30,7 @@ Platform competition refers to the competition among entities who serve as inter
 
 **F. Sezer**, Justin Grana, Information Design in Platform Competition under Ramsey Pricing, 2022 <br />
 
-<img src="platform.JPG" alt="drawing" width="300"/>
+<img src="platform.JPG" alt="drawing" width="800"/>
 
 
 ## Incentive Compatible Mechanisms for power market coupling
