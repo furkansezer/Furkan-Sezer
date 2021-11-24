@@ -22,7 +22,7 @@ We analyze welfare maximization under a bilevel hierarchical structure. Leader d
 
 **F. Sezer**, Ceyhun Eksin, Bilevel Multiagent Information Design in Linear-Quadratic-Gaussian Games, 2022 <br />
 
-<img src="bilevel.jpg" alt="drawing" width="300"/>
+<img src="bilevel.JPG" alt="drawing" width="300"/>
 
 
 ## Information Design in Platform Competition under Ramsey Pricing
@@ -30,7 +30,7 @@ Platform competition refers to the competition among entities who serve as inter
 
 **F. Sezer**, Justin Grana, Information Design in Platform Competition under Ramsey Pricing, 2022 <br />
 
-<img src="platform.jpg" alt="drawing" width="300"/>
+<img src="platform.JPG" alt="drawing" width="300"/>
 
 
 ## Incentive Compatible Mechanisms for power market coupling
