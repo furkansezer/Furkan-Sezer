@@ -6,7 +6,7 @@ I am a 3rd year PhD student in [Industrial Engineering at Texas A&M University, 
 # Research
 
 ## Welfare Maximization and Conformism via Information Design
-We considered linear-quadratic Gaussian (LQG) games in which players have quadratic payoffs that depend on the players' actions and an unknown payoff-relevant state, and signals on the state that follow a Gaussian distribution conditional on the state realization. An information designer decides the fidelity of information revealed to the players in order to maximize the social welfare of the players or reduce the disagreement among players' actions. Leveraging the semi-definiteness of the information design problem, we derive analytical solutions for these objectives under specific LQG games. We also performed numerical studies to situations where analytical results is not possible.
+We considered linear-quadratic-Gaussian (LQG) games in which players have quadratic payoffs that depend on the players' actions and an unknown payoff-relevant state, and signals on the state that follow a Gaussian distribution conditional on the state realization. An information designer decides the fidelity of information revealed to the players in order to maximize the social welfare of the players or reduce the disagreement among players' actions. Leveraging the semi-definiteness of the information design problem, we derive analytical solutions for these objectives under specific LQG games. We also performed numerical studies to situations where analytical results is not possible.
 
 **Furkan Sezer**, Hossein Khazaei, Ceyhun Eksin. Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games, arxiv: 2102.13047 [math.OC], 2021. [[pdf]](https://arxiv.org/pdf/2102.13047.pdf)
 
@@ -20,6 +20,11 @@ In this thrust of research, we aim at developing robust information design again
 **Furkan Sezer**, Ceyhun Eksin, Robust Optimization Approach to Information Design in Linear-Quadratic-Gaussian Games, 2022
 
 <img src="diagonal.JPG" alt="drawing" width="1000"/>
+
+## Welfare Maximization in Symmetric Submodular and Supermodular Network Games via Information Design
+We consider submodular and supermodualar linear-quadratic-Gaussian (LQG) games under star, circle and line network structures. We show that full information disclosure is the optimal solution under public information structures or if there is a common payoff state for these games under diagonal dominance assumption on adjacency matrices. We then analyze value of information for central and peripheral agents of a star network. Peripheral agents always favor full information disclosure under submodular LQG games. For other cases, agents favor full or no information disclosure based on a metric called "submodularity parameter" and number of agents. "Submodularity parameter" is defined as the ratio of constant diagonal element of the adjacency matrix over constant non-zero non-diagonal element of adjacency matrix.
+
+<img src="peripheral.JPG" alt="drawing" width="1000"/>
 
 ## Bilevel Multi-Follower Information Design
 We analyze welfare maximization under a bilevel hierarchical structure. Leader designs information for the game played by managers. In turn, managers design information for the game played by employees. Payoff state of a manager is defined as weighted sum of payoff state coming from environment and social welfare of employees which he/she is responsible.  This model offers a novel way to look at hierarchical systems such as supply chains and armed forces.
