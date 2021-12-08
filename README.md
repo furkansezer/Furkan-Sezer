@@ -10,7 +10,7 @@ We considered linear-quadratic-Gaussian (LQG) games in which players have quadra
 
 **Furkan Sezer**, Hossein Khazaei, Ceyhun Eksin. Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games, arxiv: 2102.13047 [math.OC], 2021. [[pdf]](https://arxiv.org/pdf/2102.13047.pdf)
 
-<img src="base.jpg" alt="drawing" width="1000"/>
+<img src="base.JPG" alt="drawing" width="1000"/>
 <img src="welfare.JPG" alt="drawing" width="1000"/>
 
 
