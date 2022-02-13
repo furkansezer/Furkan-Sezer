@@ -66,9 +66,9 @@ Alfredo Garcia, Roohallah Khatami, Ceyhun Eksin and **Furkan Sezer**, An Incenti
 # Presentations
 
 * Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games \\
-  *INFORMS Annual Meeting 2021, Anaheim, CA, Oct 26, 2021
-  *32nd POMS Annual Conference, Online, April 21, 2022
-  *IISE Annual Conference & Expo 2022, Seattle May 21, 2022
+  * INFORMS Annual Meeting 2021, Anaheim, CA, Oct 26, 2021
+  * 32nd POMS Annual Conference, Online, April 21, 2022
+  * IISE Annual Conference & Expo 2022, Seattle May 21, 2022
  
 
 
