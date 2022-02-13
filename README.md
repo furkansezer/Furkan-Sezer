@@ -26,7 +26,7 @@ We consider submodular and supermodualar linear-quadratic-Gaussian (LQG) games o
 
 **Furkan Sezer**, Ceyhun Eksin, Welfare Maximization in Symmetric Submodular and Supermodular Network Games via Information Design, 2022
 
-<img src="peripheral.jpg" alt="drawing" width="1000"/>
+<img src="peripheral.jpg" alt="drawing" width="500"/>
 
 ## Bilevel Multi-Follower Information Design
 We analyze welfare maximization under a bilevel hierarchical structure. Leader designs information for the game played by managers. In turn, managers design information for the game played by employees. Payoff state of a manager is defined as weighted sum of payoff state coming from environment and social welfare of employees which he/she is responsible.  This model offers a novel way to look at hierarchical systems such as supply chains and armed forces.
