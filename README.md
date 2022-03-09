@@ -74,6 +74,7 @@ Alfredo Garcia, Roohallah Khatami, Ceyhun Eksin and **Furkan Sezer**, An Incenti
   * INFORMS Annual Meeting 2021, Anaheim, CA, Oct 26, 2021
   * 32nd POMS Annual Conference, Online, April 21, 2022
   * IISE Annual Conference & Expo 2022, Seattle, WA, May 21, 2022
+  * European Control Conference 2022, London, UK, July 12, 2022
  
 
 
