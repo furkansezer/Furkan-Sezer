@@ -44,9 +44,10 @@ Platform competition refers to the competition among entities who serve as inter
 
 **Furkan Sezer**, Justin Grana, Information Design in Platform Competition under Ramsey Pricing , 2022
 
-
 <img src="plat.jpg" alt="drawing" width="1000"/>
+
 ## 2. Multi-Agent Reinforcement Learning
+
 ### 2.1 Policy Gradient Algorithms for Non-cooperative Multi-agent Reinforcement Learning 
 We consider networked multi-agent reinforcement learning problem, in whichagents share their policies via communication network. Agents employ actor-critictype of an algorithm under the multi-agent setting of a Markov game. We show theconvergence of the algorithm to Nash equilibrium in Markov potential games.In numerical experiments, we simulated a networked Cournot game, an example ofpotential games. Numerical results verify the convergence to Nash equilibrium.
 
