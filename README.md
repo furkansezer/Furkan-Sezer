@@ -15,20 +15,21 @@ We considered linear-quadratic-Gaussian (LQG) games in which players have quadra
 <img src="base.JPG" alt="drawing" width="1000"/>
 <img src="welfare.jpg" alt="drawing" width="1000"/>
 
+### 1.2 Information Structure Preferences in Symmetric Submodular and Supermodular LQG Network Games
+We show that optimal information structure in equilibrium is full information disclosure which is also preferred by agents ex-ante depending upon the number of agents and edge weights. We prove that risk-neutral central agent and peripheral agents of a star network always prefer full information disclosure ex-ante. Ex-post preferences obtained as Monte Carlo estimates indicate a risk-averse central agent can prefer no information disclosure under some conditions. However, ex-post preference estimates for peripheral agents imply that full information disclosure is still preferred by them even if they are risk-averse ex-ante. We discuss results via the supermodular game of Bertrand competition over networked markets where results indicate that the central agent has incentive to prefer no information disclosure under stiff competition.
 
-### 1.2 Robust Optimization Approach to Information Design
+**Furkan Sezer**, Ceyhun Eksin, Welfare Maximization in Symmetric Submodular and Supermodular Network Games via Information Design, 2022
+
+<img src="network.JPG" alt="drawing" width="1000"/>
+
+
+### 1.3 Robust Optimization Approach to Information Design
 In this thrust of research, we aim at developing robust information design against uncertainty in system data. In robust optimization framework, we have perturbed problem data, but we do not know exactly what is real system data. We also have a uncertainty set which gives us an idea regarding how much the real data is perturbed. If we solve the perturbed problem directly without considering the perturbation, the signals we designed will not perform as good as if we do it under robust optimization framework. In turn, we would have a suboptimal system objective value. 
 
 **Furkan Sezer**, Ceyhun Eksin, Robust Optimization Approach to Information Design in Linear-Quadratic-Gaussian Games, 2022
 
 <img src="diagonal.JPG" alt="drawing" width="1000"/>
 
-### 1.3 Information Structure Preferences in Symmetric Submodular and Supermodular LQG Network Games
-We show that optimal information structure in equilibrium is full information disclosure which is also preferred by agents ex-ante depending upon the number of agents and edge weights. We prove that risk-neutral central agent and peripheral agents of a star network always prefer full information disclosure ex-ante. Ex-post preferences obtained as Monte Carlo estimates indicate a risk-averse central agent can prefer no information disclosure under some conditions. However, ex-post preference estimates for peripheral agents imply that full information disclosure is still preferred by them even if they are risk-averse ex-ante. We discuss results via the supermodular game of Bertrand competition over networked markets where results indicate that the central agent has incentive to prefer no information disclosure under stiff competition.
-
-**Furkan Sezer**, Ceyhun Eksin, Welfare Maximization in Symmetric Submodular and Supermodular Network Games via Information Design, 2022
-
-<img src="network.JPG" alt="drawing" width="1000"/>
 
 ### 1.4 Bilevel Multi-Follower Information Design
 We analyze welfare maximization under a bilevel hierarchical structure. Leader designs information for the game played by managers. In turn, managers design information for the game played by employees. Payoff state of a manager is defined as weighted sum of payoff state coming from environment and social welfare of employees which he/she is responsible.  This model offers a novel way to look at hierarchical systems such as supply chains and armed forces.
