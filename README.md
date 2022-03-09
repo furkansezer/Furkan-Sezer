@@ -23,8 +23,8 @@ In this thrust of research, we aim at developing robust information design again
 
 <img src="diagonal.JPG" alt="drawing" width="1000"/>
 
-### 1.3 Welfare Maximization in Symmetric Submodular and Supermodular Network Games via Information Design
-We consider submodular and supermodualar linear-quadratic-Gaussian (LQG) games over star, circle and line networks. We show that full information disclosure is the optimal solution under public information structures or if there is a common payoff state for these games under diagonal dominance assumption on adjacency matrices. We then analyze value of information for central and peripheral agents of a star network. Peripheral agents always favor full information disclosure under submodular LQG games. For other cases, agents favor full or no information disclosure based on a metric called "submodularity parameter" and number of agents. "Submodularity parameter" is defined as the ratio of constant diagonal element of the adjacency matrix over constant non-zero non-diagonal element of adjacency matrix.
+### 1.3 Information Structure Preferences in Symmetric Submodular and Supermodular LQG Network Games
+We show that optimal information structure in equilibrium is full information disclosure which is also preferred by agents ex-ante depending upon the number of agents and edge weights. We prove that risk-neutral central agent and peripheral agents of a star network always prefer full information disclosure ex-ante. Ex-post preferences obtained as Monte Carlo estimates indicate a risk-averse central agent can prefer no information disclosure under some conditions. However, ex-post preference estimates for peripheral agents imply that full information disclosure is still preferred by them even if they are risk-averse ex-ante. We discuss results via the supermodular game of Bertrand competition over networked markets where results indicate that the central agent has incentive to prefer no information disclosure under stiff competition.
 
 **Furkan Sezer**, Ceyhun Eksin, Welfare Maximization in Symmetric Submodular and Supermodular Network Games via Information Design, 2022
 
