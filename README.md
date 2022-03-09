@@ -18,7 +18,7 @@ We considered linear-quadratic-Gaussian (LQG) games in which players have quadra
 ### 1.2 Information Structure Preferences in Symmetric Submodular and Supermodular LQG Network Games
 We show that optimal information structure in equilibrium is full information disclosure which is also preferred by agents ex-ante depending upon the number of agents and edge weights. We prove that risk-neutral central agent and peripheral agents of a star network always prefer full information disclosure ex-ante. Ex-post preferences obtained as Monte Carlo estimates indicate a risk-averse central agent can prefer no information disclosure under some conditions. However, ex-post preference estimates for peripheral agents imply that full information disclosure is still preferred by them even if they are risk-averse ex-ante. We discuss results via the supermodular game of Bertrand competition over networked markets where results indicate that the central agent has incentive to prefer no information disclosure under stiff competition.
 
-**Furkan Sezer**, Ceyhun Eksin, Welfare Maximization in Symmetric Submodular and Supermodular Network Games via Information Design, 2022
+**Furkan Sezer**, Ceyhun Eksin, Information Structure Preferences in Symmetric Submodular and Supermodular LQG Network Games, 2022
 
 <img src="network.JPG" alt="drawing" width="1000"/>
 
