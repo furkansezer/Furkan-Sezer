@@ -5,7 +5,7 @@ I am a 3rd year PhD student in [Industrial Engineering at Texas A&M University, 
 
 # Research
 
-## 1. Information Design (Dissertation Research)
+## 1. Robust and Inverse Information Design (Dissertation Research)
 
 ### 1.1 Welfare Maximization and Conformism via Information Design
 We considered linear-quadratic-Gaussian (LQG) games in which players have quadratic payoffs that depend on the players' actions and an unknown payoff-relevant state, and signals on the state that follow a Gaussian distribution conditional on the state realization. An information designer decides the fidelity of information revealed to the players in order to maximize the social welfare of the players or reduce the disagreement among players' actions. Leveraging the semi-definiteness of the information design problem, we derive analytical solutions for these objectives under specific LQG games. We also performed numerical studies to situations where analytical results is not possible.
@@ -15,8 +15,8 @@ We considered linear-quadratic-Gaussian (LQG) games in which players have quadra
 <img src="base.JPG" alt="drawing" width="1000"/>
 <img src="welfare.jpg" alt="drawing" width="1000"/>
 
-### 1.2 Information Structure Preferences in Symmetric Submodular and Supermodular LQG Network Games
-We show that optimal information structure in equilibrium is full information disclosure which is also preferred by agents ex-ante depending upon the number of agents and edge weights. We prove that risk-neutral central agent and peripheral agents of a star network always prefer full information disclosure ex-ante. Ex-post preferences obtained as Monte Carlo estimates indicate a risk-averse central agent can prefer no information disclosure under some conditions. However, ex-post preference estimates for peripheral agents imply that full information disclosure is still preferred by them even if they are risk-averse ex-ante. We discuss results via the supermodular game of Bertrand competition over networked markets where results indicate that the central agent has incentive to prefer no information disclosure under stiff competition.
+### 1.2 Information Structure Preferences in Submodular and Supermodular LQG Network Games
+We consider linear-quadratic-Gaussian (LQG) network games in which agents have quadratic payoffs that depend on their individual and neighbors' actions, and an unknown payoff-relevant state. An information designer determines the fidelity of information revealed to the agents about the payoff state to maximize the social welfare. Prior results show that full information disclosure is optimal under certain assumptions on the payoffs, i.e., it is beneficial for the average individual. In this paper, we provide conditions based on the strength of the dependence of payoffs on neighbors' actions, i.e., competition, under which a rational agent is expected to benefit, i.e., receive higher payoffs, from full information disclosure. We find that all agents benefit from information disclosure for the star network structure when the game is symmetric and submodular or supermodular. We also identify that the central agent benefits more than a peripheral agent from full information disclosure unless the competition is strong and the number of peripheral agents is small enough. 
 
 **Furkan Sezer**, Ceyhun Eksin, Information Structure Preferences in Symmetric Submodular and Supermodular LQG Network Games, 2022
 
