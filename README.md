@@ -15,10 +15,10 @@ We considered linear-quadratic-Gaussian (LQG) games in which players have quadra
 <img src="base.JPG" alt="drawing" width="1000"/>
 <img src="welfare.jpg" alt="drawing" width="1000"/>
 
-### 1.2 Information Structure Preferences in Submodular and Supermodular LQG Network Games
+### 1.2 Information Preferences of Individual Agents in Submodular and Supermodular LQG Network Games
 We consider linear-quadratic-Gaussian (LQG) network games in which agents have quadratic payoffs that depend on their individual and neighbors' actions, and an unknown payoff-relevant state. An information designer determines the fidelity of information revealed to the agents about the payoff state to maximize the social welfare. Prior results show that full information disclosure is optimal under certain assumptions on the payoffs, i.e., it is beneficial for the average individual. In this paper, we provide conditions based on the strength of the dependence of payoffs on neighbors' actions, i.e., competition, under which a rational agent is expected to benefit, i.e., receive higher payoffs, from full information disclosure. We find that all agents benefit from information disclosure for the star network structure when the game is symmetric and submodular or supermodular. We also identify that the central agent benefits more than a peripheral agent from full information disclosure unless the competition is strong and the number of peripheral agents is small enough. 
 
-**Furkan Sezer**, Ceyhun Eksin, Information Structure Preferences in Symmetric Submodular and Supermodular LQG Network Games, 2022
+**Furkan Sezer**, Ceyhun Eksin, Information Preferences of Individual Agents in Submodular and Supermodular LQG Network Games, 2022
 
 <img src="network.JPG" alt="drawing" width="1000"/>
 
