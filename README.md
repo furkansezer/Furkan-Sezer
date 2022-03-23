@@ -10,7 +10,7 @@ I am a 3rd year PhD student in [Industrial Engineering at Texas A&M University, 
 ### 1.1 Welfare Maximization and Conformism via Information Design
 We considered linear-quadratic-Gaussian (LQG) games in which players have quadratic payoffs that depend on the players' actions and an unknown payoff-relevant state, and signals on the state that follow a Gaussian distribution conditional on the state realization. An information designer decides the fidelity of information revealed to the players in order to maximize the social welfare of the players or reduce the disagreement among players' actions. Leveraging the semi-definiteness of the information design problem, we derive analytical solutions for these objectives under specific LQG games. We also performed numerical studies to situations where analytical results is not possible.
 
-**Furkan Sezer**, Hossein Khazaei, Ceyhun Eksin. Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games, arxiv: 2102.13047 [math.OC], 2021. [[pdf]](https://arxiv.org/pdf/2102.13047.pdf)
+**Furkan Sezer**, Hossein Khazaei, Ceyhun Eksin. Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games, 2021 (submitted). [[pdf]](https://arxiv.org/pdf/2102.13047.pdf)
 
 <img src="base.JPG" alt="drawing" width="1000"/>
 <img src="welfare.jpg" alt="drawing" width="1000"/>
@@ -18,7 +18,7 @@ We considered linear-quadratic-Gaussian (LQG) games in which players have quadra
 ### 1.2 Information Preferences of Individual Agents in Linear-Quadratic-Gaussian Network Games
 We consider linear-quadratic-Gaussian (LQG) network games in which agents have quadratic payoffs that depend on their individual and neighbors' actions, and an unknown payoff-relevant state. An information designer determines the fidelity of information revealed to the agents about the payoff state to maximize the social welfare. Prior results show that full information disclosure is optimal under certain assumptions on the payoffs, i.e., it is beneficial for the average individual. In this paper, we provide conditions based on the strength of the dependence of payoffs on neighbors' actions, i.e., competition, under which a rational agent is expected to benefit, i.e., receive higher payoffs, from full information disclosure. We find that all agents benefit from information disclosure for the star network structure when the game is symmetric and submodular or supermodular. We also identify that the central agent benefits more than a peripheral agent from full information disclosure unless the competition is strong and the number of peripheral agents is small enough. 
 
-**Furkan Sezer**, Ceyhun Eksin, Information Preferences of Individual Agents in Linear-Quadratic-Gaussian Network Games, 2022
+**Furkan Sezer**, Ceyhun Eksin, Information Preferences of Individual Agents in Linear-Quadratic-Gaussian Network Games, 2022, (submitted).
 
 <img src="network.JPG" alt="drawing" width="1000"/>
 
