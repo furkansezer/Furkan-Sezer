@@ -20,7 +20,7 @@ We consider linear-quadratic-Gaussian (LQG) network games in which agents have q
 
 **Furkan Sezer**, Ceyhun Eksin, Information Preferences of Individual Agents in Linear-Quadratic-Gaussian Network Games, 2022, (submitted).
 
-<img src="preference.JPG" alt="drawing" width="500"/>
+<img src="star.JPG" alt="drawing" width="500"/> <img src="preference.JPG" alt="drawing" width="500"/> 
 
 
 ### 1.3 Robust Optimization Approach to Information Design
