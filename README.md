@@ -42,10 +42,10 @@ We analyze welfare maximization under a bilevel hierarchical structure. Leader d
 <img src="bilevel.JPG" alt="drawing" width="1000"/>
 
 
-### 1.5 Information Design in Platform Competition under Ramsey Pricing
+### 1.5 Ramsey Pricing via Information Design in Platform Competition
 Platform competition refers to the competition among entities who serve as intermediaries between two or more user groups like merchants and buyers. We consider maximizing welfare of buyers and sellers and budget balance for monopoly platform. We derive optimal analytical results based on convexity of welfare functions. Numerical experiments identify the transition dynamics between different information disclosure policies.
 
-**Furkan Sezer**, Justin Grana, Information Design in Platform Competition under Ramsey Pricing , 2022
+**Furkan Sezer**, Justin Grana, Ramsey Pricing via Information Design in Platform Competition, 2023
 
 <img src="plat.jpg" alt="drawing" width="1000"/>
 
