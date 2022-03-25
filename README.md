@@ -1,10 +1,7 @@
 
 <img align="right" src="1629480007010.jpg" width="300"/>
 
-I am a 3rd year PhD student in [Industrial Engineering at Texas A&M University, USA](https://engineering.tamu.edu/industrial/index.html). My PhD research is on information design in games with applications to multiagent systems, e.g., smart grids and two-sided markets. I am conducting reseach under the supervision of [Dr. Ceyhun Eksin](https://netmas.engr.tamu.edu/). I obtained my BSc. degree from [Boğaziçi University Department of Industrial Engineering, Turkey](https://ie.boun.edu.tr/) in June 2019. I was an exchange student at [McGill University, Canada](https://www.mcgill.ca/) in Fall 2017.
-
-
-
+Furkan Sezer received the B.Sc. degree in [industrial engineering from Bogazici University, Istanbul, Turkey](https://ie.boun.edu.tr/) in 2019. He is currently working toward the Ph.D. degree in [industrial & systems engineering with Texas A&M University, College Station, TX, USA](https://engineering.tamu.edu/industrial/index.html). His PhD advisor is [Dr. Ceyhun Eksin](https://netmas.engr.tamu.edu/). His research interests include distributed optimization, game theory, information design, and electricity markets.
 
 # Research
 
