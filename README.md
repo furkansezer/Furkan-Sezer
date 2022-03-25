@@ -5,7 +5,7 @@ Furkan Sezer received the B.Sc. degree in [industrial engineering from Bogazici 
 
 # Research
 
-## 1. Robust and Inverse Information Design (Dissertation Research)
+## 1. Robust, Inverse and Hierarchical Information Design (Dissertation Research)
 
 ### 1.1 Welfare Maximization and Conformism via Information Design
 We considered linear-quadratic-Gaussian (LQG) games in which players have quadratic payoffs that depend on the players' actions and an unknown payoff-relevant state, and signals on the state that follow a Gaussian distribution conditional on the state realization. An information designer decides the fidelity of information revealed to the players in order to maximize the social welfare of the players or reduce the disagreement among players' actions. We show that full information disclosure maximizes social welfare when there is a common payoff-relevant state, when there is strategic substitutability in the actions of players, or when the signals are public.
@@ -34,10 +34,10 @@ In this thrust of research, we aim at developing robust information design again
 <img src="diagonal.JPG" alt="drawing" width="1000"/>
 
 
-### 1.4 Bilevel Multi-Follower Information Design
+### 1.4 Bilevel Information Design
 We analyze welfare maximization under a bilevel hierarchical structure. Leader designs information for the game played by managers. In turn, managers design information for the game played by employees. Payoff state of a manager is defined as weighted sum of payoff state coming from environment and social welfare of employees which he/she is responsible.  This model offers a novel way to look at hierarchical systems such as supply chains and armed forces.
 
-**Furkan Sezer**, Ceyhun Eksin, Bilevel Multi-Follower Information Design in Linear-Quadratic-Gaussian Games, 2022
+**Furkan Sezer**, Ceyhun Eksin, Bilevel Information Design in Linear-Quadratic-Gaussian Games, 2022
 
 <img src="bilevel.JPG" alt="drawing" width="1000"/>
 
