@@ -78,8 +78,8 @@ Sarper Aydin, **Furkan Sezer**, Jiachen Xi, Prachi Dutta, Decentralized Policy G
 * Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games
   * INFORMS Annual Meeting 2021, Anaheim, CA, USA, Oct 26, 2021
   * 32nd POMS Annual Conference, Online, April 24, 2022
-  * IISE Annual Conference & Expo 2022, Seattle, WA, USA, May 21, 2022
-  * European Control Conference 2022, London, UK, July 12, 2022
+  * IISE Annual Conference & Expo 2022, Seattle, WA, USA, May 22, 2022
+  * European Control Conference 2022, London, UK, July 15, 2022
  
 
 
