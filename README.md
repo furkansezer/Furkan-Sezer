@@ -5,7 +5,7 @@ Furkan Sezer received the B.Sc. degree in [industrial engineering from Bogazici 
 
 ## Recent News
 
-* My recent paper titled "Information Preferences of Individual Agents in Linear-Quadratic-Gaussian Network Games" is accepted for publication at IEEE Control Systems Letters.
+* My recent paper titled "Information Preferences of Individual Agents in Linear-Quadratic-Gaussian Network Games" is accepted for publication at IEEE Control Systems Letters (June 7, 2022).
 
 # Research
 
