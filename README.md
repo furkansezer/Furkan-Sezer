@@ -5,8 +5,10 @@ Furkan Sezer received the B.Sc. degree in [industrial engineering from Bogazici 
 
 ## Recent News
 
-* My paper titled "Information Preferences of Individual Agents in Linear-Quadratic-Gaussian Network Games" is accepted for publication at IEEE Control Systems Letters (June 7, 2022).
-
+* My paper titled "Information Preferences of Individual Agents in Linear-Quadratic-Gaussian Network Games" is accepted for publication at IEEE Control Systems Letters (June 2022).
+* I presented my paper titled "Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games" at IISE Annual Meeting & Expo 2022 (May 2022)
+* I presented my paper titled "Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games" at POMS Annual Meeting 2022 (April 2022)
+* I presented my paper titled "Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games" at INFORMS Annual Meeting 2022 (October 2021)
 # Research
 
 ## 1. Robust and Inverse Information Design (Dissertation Research)
