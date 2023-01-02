@@ -4,8 +4,9 @@
 Furkan Sezer received the B.Sc. degree in [industrial engineering from Bogazici University, Istanbul, Turkey](https://ie.boun.edu.tr/) in 2019. He is currently working toward the Ph.D. degree in [industrial & systems engineering with Texas A&M University, College Station, TX, USA](https://engineering.tamu.edu/industrial/index.html). His PhD advisor is [Dr. Ceyhun Eksin](https://netmas.engr.tamu.edu/). His research interests include distributed optimization, game theory, information design, and electricity markets.
 
 ## Recent News
+* I presented my paper titled "Information Preferences of Individual Agents in Linear-Quadratic-Gaussian Network Games" at INFORMS 2022 Annual Meeting (Indianapolis, Oct 2022) and at Conference on Decision & Control 2022 (Cancun, Mexico, Dec 2022).
+
 * I did a poster presentation at Texas A&M Energy Conference 2022 for my paper titled "Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games".
-* I will present my paper titled "Information Preferences of Individual Agents in Linear-Quadratic-Gaussian Network Games" at INFORMS 2022 Annual Meeting (Indianapolis, Oct 2022) and at Conference on Decision & Control 2022 (Canjun, Mexico, Dec 2022).
 
 * My paper titled "Information Preferences of Individual Agents in Linear-Quadratic-Gaussian Network Games" is accepted for publication at IEEE Control Systems Letters (June 2022).
 * I presented my paper titled "Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games" at IISE Annual Meeting & Expo 2022 (Seattle, WA, May 2022)
