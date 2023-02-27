@@ -5,6 +5,8 @@ Furkan Sezer received the B.Sc. degree in [industrial engineering from Bogazici 
 
 ## Recent News
 * I presented my paper titled "Information Preferences of Individual Agents in Linear-Quadratic-Gaussian Network Games" at INFORMS 2022 Annual Meeting (Indianapolis, Oct 2022) and at Conference on Decision & Control 2022 (Cancun, Mexico, Dec 2022).
+* 
+* My paper titled "Maximizing Social Welfare and Agreement via Information Design in Linear-Quadratic-Gaussian Games" is conditionally accepted for publication at IEEE Trans. on Automatic Control (November 2022). The paper previously circulated with the title "Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games". 
 
 * I did a poster presentation at Texas A&M Energy Conference 2022 for my paper titled "Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games".
 
@@ -41,7 +43,7 @@ We consider a setting in which the designer has partial knowledge on agents' uti
 **Furkan Sezer**, Ceyhun Eksin, Robust Optimization Approach to Information Design in Linear-Quadratic-Gaussian Games, 2023
 
 
-Distance between optimal and no information disclosure covariance matrix             |  Optimal Objecti value
+Frobenius distance between optimal and no information disclosure covariance matrices             |  Optimal objective value
 :-------------------------:|:-------------------------:
 <img src="robust_sim.jpg" alt="drawing" width="500"/> |  <img src="robust_on_objective.jpg" alt="drawing" width="500"/> 
 
