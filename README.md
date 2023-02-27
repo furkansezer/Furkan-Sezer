@@ -36,9 +36,9 @@ Information Design over Star Network             |  Ex-post Information Preferen
 
 
 ### 1.3 Robust Optimization Approach to Information Design
-In this thrust of research, we aim at developing robust information design against uncertainty in system data. In robust optimization framework, we have perturbed problem data, but we do not know exactly what is real system data. We also have a uncertainty set which gives us an idea regarding how much the real data is perturbed. If we solve the perturbed problem directly without considering the perturbation, the signals we designed will not perform as good as if we do it under robust optimization framework. In turn, we would have a suboptimal system objective value. 
+We consider a setting in which the designer has partial knowledge on agents' utilities. We address the uncertainty about player's preferences by formulating a robust information design problem. Specifically, we consider ellipsoid perturbations over payoff matrices in linear-quadratic-Gaussian (LQG) games. We show that this leads to a tractable robust SDP formulation. Using the robust SDP formulation, we obtain analytical conditions for the optimality of no information and full information disclosure. The robust convex program is also extended to interval and general convex cone uncertainty sets on the payoff matrices. Numerical studies are carried out to identify the relation between the perturbation levels and the optimal information structures.
 
-**Furkan Sezer**, Ceyhun Eksin, Robust Optimization Approach to Information Design in Linear-Quadratic-Gaussian Games, 2022
+**Furkan Sezer**, Ceyhun Eksin, Robust Optimization Approach to Information Design in Linear-Quadratic-Gaussian Games, 2023
 
 <img src="diagonal.JPG" alt="drawing" width="1000"/>
 
