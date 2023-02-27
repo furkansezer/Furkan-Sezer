@@ -40,7 +40,7 @@ We consider a setting in which the designer has partial knowledge on agents' uti
 
 **Furkan Sezer**, Ceyhun Eksin, Robust Optimization Approach to Information Design in Linear-Quadratic-Gaussian Games, 2023
 
-<img src="robust_on_objective.jpg" alt="drawing" width="1000"/>
+<img src="robust_on_objective.jpg" alt="drawing" width="500"/>
 
 
 ### 1.4 Bilevel Information Design
