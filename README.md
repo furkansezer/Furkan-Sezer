@@ -43,7 +43,7 @@ We consider a setting in which the designer has partial knowledge on agents' uti
 **Furkan Sezer**, Ceyhun Eksin, Robust Optimization Approach to Information Design in Linear-Quadratic-Gaussian Games, 2023
 
 
-Frobenius distance between optimal and no information disclosure covariance matrices             |  Optimal objective value
+Distance between optimal and no info covariance matrices |  Optimal objective value
 :-------------------------:|:-------------------------:
 <img src="robust_sim.jpg" alt="drawing" width="500"/> |  <img src="robust_on_objective.jpg" alt="drawing" width="500"/> 
 
