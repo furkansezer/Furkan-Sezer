@@ -14,7 +14,7 @@ Furkan Sezer received the B.Sc. degree in [industrial engineering from Bogazici 
 * I presented my paper titled "Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games" at INFORMS Annual Meeting 2021 (Anaheim, CA, October 2021)
 # Research
 
-## 1. Robust and Inverse Information Design (Dissertation Research)
+## 1. Information Design in Linear-Quadratic-Gaussian Games(Dissertation Research)
 
 ### 1.1 Welfare Maximization and Conformism via Information Design
 We considered linear-quadratic-Gaussian (LQG) games in which players have quadratic payoffs that depend on the players' actions and an unknown payoff-relevant state, and signals on the state that follow a Gaussian distribution conditional on the state realization. An information designer decides the fidelity of information revealed to the players in order to maximize the social welfare of the players or reduce the disagreement among players' actions. We show that full information disclosure maximizes social welfare when there is a common payoff-relevant state, when there is strategic substitutability in the actions of players, or when the signals are public.
@@ -79,7 +79,9 @@ Sarper Aydin, **Furkan Sezer**, Jiachen Xi, Prachi Dutta, Decentralized Policy G
   * INFORMS Annual Meeting 2021, Anaheim, CA, USA, Oct 26, 2021
   * 32nd POMS Annual Conference, Virtual, April 24, 2022
   * IISE Annual Conference & Expo 2022, Seattle, WA, USA, May 22, 2022
-  * European Control Conference 2022, London, UK, July 15, 2022
+* Information Preferences of Individual Agents in Linear-Quadratic-Gaussian Network Games
+  * INFORMS Annual Meeting 2022, Indianapolis, IN, USA, Oct 17, 2022
+  * 61st Conference on Decision and Control, Cancun, Mexico, Dec 7, 2022
  
 
 
