@@ -47,13 +47,6 @@ Distance between optimal and no info covariance matrices |  Optimal objective va
 :-------------------------:|:-------------------------:
 <img src="robust_sim.jpg" alt="drawing" width="500"/> |  <img src="robust_on_objective.jpg" alt="drawing" width="500"/> 
 
-### 1.4 Bilevel Information Design
-We analyze welfare maximization under a bilevel hierarchical structure. Leader designs information for the game played by managers. In turn, managers design information for the game played by employees. Payoff state of a manager is defined as weighted sum of payoff state coming from environment and social welfare of employees which he/she is responsible.  This model offers a novel way to look at hierarchical systems such as supply chains and armed forces.
-
-**Furkan Sezer**, Ceyhun Eksin, Bilevel Information Design in Linear-Quadratic-Gaussian Games, 2022
-
-<img src="bilevel.JPG" alt="drawing" width="1000"/>
-
 
 ## 2. Mechanism Design for Decentralized Electricity Markets
 
