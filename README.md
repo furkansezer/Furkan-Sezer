@@ -34,6 +34,13 @@ Prior results show that full information disclosure is optimal under certain ass
 Information Design over Star Network             |  Ex-post Information Preference Estimates
 :-------------------------:|:-------------------------:
 <img src="star.JPG" alt="drawing" width="500"/>  |  <img src="preference.JPG" alt="drawing" width="500"/> 
+
+### 1.3 Robust Optimization Approach to Information Design in Linear-Quadratic-Gaussian Games
+Information design in an incomplete information game includes a designer with the goal of influencing players' actions through signals generated from a designed probability distribution so that its objective function is optimized. If the players have quadratic payoffs that depend on the players' actions and an unknown payoff-relevant state, and signals on the state that follow a Gaussian distribution conditional on the state realization, then the information design problem under quadratic design objectives is a semidefinite program (SDP). We consider a setting in which the designer has partial knowledge on agents' utilities. We address the uncertainty about players' preferences by formulating a robust information design problem. Specifically, we consider ellipsoid perturbations over payoff matrices in linear-quadratic-Gaussian (LQG) games. We show that this leads to a tractable robust SDP formulation. Using the robust SDP formulation, we obtain analytical conditions for the optimality of no information and full information disclosure. The robust convex program is also extended to interval and general convex cone uncertainty sets on the payoff matrices. Numerical studies are carried out to identify the relation between the perturbation levels and the optimal information structures.
+
+**F. Sezer and C. Eksin. “Robust Optimization Approach to Information Design in Linear-Quadratic-Gaussian Games,” in arXiv 2303.05489 (2023).[[pdf]](https://arxiv.org/pdf/2303.05489.pdf) 
+
+
  
 ## 2. Mechanism Design for Decentralized Electricity Markets
 
