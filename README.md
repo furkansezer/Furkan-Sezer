@@ -4,11 +4,13 @@
 Furkan Sezer received the B.Sc. degree in [industrial engineering from Bogazici University, Istanbul, Turkey](https://ie.boun.edu.tr/) in 2019. He is currently working toward the Ph.D. degree in [industrial & systems engineering with Texas A&M University, College Station, TX, USA](https://engineering.tamu.edu/industrial/index.html). His PhD advisor is [Dr. Ceyhun Eksin](https://netmas.engr.tamu.edu/). His research interests include distributed optimization, game theory, information design, and electricity markets.
 
 ## Recent News
+* I made a poster presentation at TAMU ISEN Poster Competition titled "Information Design in Linear-Quadratic-Gaussian Games" on March 23, 2023.
+
 * I presented my paper titled "Information Preferences of Individual Agents in Linear-Quadratic-Gaussian Network Games" at INFORMS 2022 Annual Meeting (Indianapolis, Oct 2022) and at Conference on Decision & Control 2022 (Cancun, Mexico, Dec 2022).
 
 * My paper titled "Maximizing Social Welfare and Agreement via Information Design in Linear-Quadratic-Gaussian Games" is conditionally accepted for publication at IEEE Trans. on Automatic Control (November 2022). The paper previously circulated with the title "Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games". 
 
-* I did a poster presentation at Texas A&M Energy Conference 2022 for my paper titled "Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games".
+* I made a poster presentation at Texas A&M Energy Conference 2022 for my paper titled "Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games".
 
 * My paper titled "Information Preferences of Individual Agents in Linear-Quadratic-Gaussian Network Games" is accepted for publication at IEEE Control Systems Letters (June 2022).
 * I presented my paper titled "Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games" at IISE Annual Meeting & Expo 2022 (Seattle, WA, May 2022)
@@ -82,6 +84,7 @@ Sarper Aydin, **Furkan Sezer**, Jiachen Xi, Prachi Dutta, Decentralized Policy G
 E-mail: furkan.sezer@tamu.edu <br />
 [Linkedin profile](https://www.linkedin.com/in/furkansezer/) <br />
 [Google Scholar profile](https://scholar.google.com/citations?user=7UVlnAQAAAAJ&hl=en) <br />
+[Semantic Scholar profile](https://www.semanticscholar.org/author/Furkan-Sezer/2026311001) <br />
 [Github profile](https://github.com/furkansezer) <br />
 
 
