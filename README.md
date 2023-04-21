@@ -1,7 +1,7 @@
 
 <img align="right" src="1629480007010.jpg" width="300"/>
 
-Furkan Sezer received the B.Sc. degree in [industrial engineering from Bogazici University, Istanbul, Turkey](https://ie.boun.edu.tr/) in 2019. He is currently working toward the Ph.D. degree in [industrial & systems engineering with Texas A&M University, College Station, TX, USA](https://engineering.tamu.edu/industrial/index.html). His PhD advisor is [Dr. Ceyhun Eksin](https://netmas.engr.tamu.edu/). His research interests include distributed optimization, game theory, information design, and electricity markets.
+Furkan Sezer received the B.Sc. degree in [industrial engineering from Bogazici University, Istanbul, Turkey](https://ie.boun.edu.tr/) in 2019. He will receive the Ph.D. degree in [industrial & systems engineering with Texas A&M University, College Station, TX, USA](https://engineering.tamu.edu/industrial/index.html) in August 2023. His PhD advisor is [Dr. Ceyhun Eksin](https://netmas.engr.tamu.edu/). His research interests include distributed optimization, game theory, information design, and electricity markets.
 
 ## Recent News
 * I defended my PhD Dissertation titled "Information Design in Linear-Quadratic-Gaussian Games" on April 20, 2023. I will join United Airlines as a Senior Data Scientist-Operations Research in May 2023. 
