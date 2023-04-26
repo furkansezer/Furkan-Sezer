@@ -25,7 +25,7 @@ Furkan Sezer received the B.Sc. degree in [industrial engineering from Bogazici 
 ### 1.1 Welfare Maximization and Conformism via Information Design
 We considered linear-quadratic-Gaussian (LQG) games in which players have quadratic payoffs that depend on the players' actions and an unknown payoff-relevant state, and signals on the state that follow a Gaussian distribution conditional on the state realization. An information designer decides the fidelity of information revealed to the players in order to maximize the social welfare of the players or reduce the disagreement among players' actions. We show that full information disclosure maximizes social welfare when there is a common payoff-relevant state, when there is strategic substitutability in the actions of players, or when the signals are public.
 
-**Furkan Sezer**, Hossein Khazaei, Ceyhun Eksin. Maximizing Social Welfare and Agreement via Information Design in Linear-Quadratic-Gaussian Games, 2021 (condtionally accepted to IEEE Trans. on Automatic Control). [[pdf]](https://arxiv.org/pdf/2102.13047.pdf)
+**F. Sezer**, H. Khazaei and C. Eksin, "Maximizing Social Welfare and Agreement Via Information Design in Linear-Quadratic-Gaussian Games," in IEEE Transactions on Automatic Control, doi: 10.1109/TAC.2023.3270241. [[pdf]](https://ieeexplore.ieee.org/document/10108058)
 
 This paper previously circulated with the name "Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games".
 <img src="base.JPG" alt="drawing" width="1000"/>
