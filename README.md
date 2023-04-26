@@ -27,7 +27,7 @@ We considered linear-quadratic-Gaussian (LQG) games in which players have quadra
 
 **F. Sezer**, H. Khazaei and C. Eksin, "Maximizing Social Welfare and Agreement Via Information Design in Linear-Quadratic-Gaussian Games," in IEEE Transactions on Automatic Control, doi: 10.1109/TAC.2023.3270241. [[pdf]](https://ieeexplore.ieee.org/document/10108058)
 
-This paper previously circulated with the name "Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games".
+This paper's earlier version circulated with the name "Social Welfare Maximization and Conformism via Information Design in Linear-Quadratic-Gaussian Games".
 <img src="base.JPG" alt="drawing" width="1000"/>
 <img src="welfare.jpg" alt="drawing" width="1000"/>
 
